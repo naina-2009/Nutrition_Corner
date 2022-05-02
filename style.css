@@ -1,0 +1,110 @@
+body
+{
+    background-image: url("background.jpg");
+}
+
+nav
+{
+    font-size: 25px;
+    text-align: center;
+    color: black;
+    font-family: Dosis;
+    position: sticky;
+    top: 0;
+    background-color: white;
+    width: 100%;
+}
+
+div img
+{
+    width: 500px;
+    height: 500px;
+    padding: 50px;
+}
+
+.page-header
+{
+    font-family: Inspiration;
+    font-size: 110px;
+    font-weight: bold;
+    color: black;
+}
+
+div p
+{
+    font-family: Zen Kaku Gothic Antique;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 25px;
+}
+
+h1
+{
+    font-family: Square Peg;
+    font-size: 50px;
+    font-weight: bold;
+    color: black;
+}
+
+h5
+{
+    font-family: Footlight MT;
+    font-size: 25px;
+    font-weight: bold;
+    color: black;
+}
+
+.sub-header
+{
+    font-family: Festive;
+    font-size: 80px;
+    color: black;
+}
+
+svg
+{
+    width: 25px;
+    height: 25px;
+}
+
+.fruit_head
+{
+    font-family: Montserrat;
+    color: white;
+    background-color: #0C9014;
+    font-size: 20px;
+    height: 30px;
+}
+
+.vegetable_head
+{
+    font-family: Montserrat;
+    color: white;
+    background-color: #0C9014;
+    font-size: 20px;
+    height: 30px;
+}
+
+.dairy_head
+{
+    font-family: Montserrat;
+    color: white;
+    background-color: #0C9014;
+    font-size: 20px;
+    height: 30px;
+}
+
+.spice_head
+{
+    font-family: Montserrat;
+    color: white;
+    background-color: #0C9014;
+    font-size: 20px;
+    height: 30px;
+}
+
+#heading
+{
+    font-family: Amatic SC;
+    font-size: 160px;
+}
